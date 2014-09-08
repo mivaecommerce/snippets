@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="concat|${1:newstring}|${2:var1}|${0:var2}" />
+]]></content>
+	<tabTrigger>tk-concat</tabTrigger>
+</snippet>

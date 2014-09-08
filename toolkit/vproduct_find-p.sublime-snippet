@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="vproduct_find|${1:productfound}|${0:Product_Code}" />
+]]></content>
+	<tabTrigger>tk-vproduct_find</tabTrigger>
+</snippet>

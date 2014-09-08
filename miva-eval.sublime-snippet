@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<mvt:eval expr="${1:g.value}" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvt:eval</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

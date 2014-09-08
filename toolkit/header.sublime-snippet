@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="header|${0:cathead}" />
+]]></content>
+	<tabTrigger>tk-header</tabTrigger>
+</snippet>

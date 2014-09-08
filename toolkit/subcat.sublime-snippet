@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="subcat|${1:ccount}|{$0:g.Category_Code}" />
+]]></content>
+	<tabTrigger>tk-subcat</tabTrigger>
+</snippet>

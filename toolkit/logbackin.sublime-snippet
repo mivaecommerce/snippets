@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="logbackin|${0:10}" />
+]]></content>
+	<tabTrigger>tk-logbackin</tabTrigger>
+</snippet>

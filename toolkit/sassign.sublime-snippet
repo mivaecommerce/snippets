@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="sassign|${1:greeting}|${0:Happy Mother\\'s Day}" />
+]]></content>
+	<tabTrigger>tk-sassign</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="cxp|${1:pcount}|${0:l.all_settings:sub_category:id}" />
+]]></content>
+	<tabTrigger>tk-cxp</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="randomall|${1:pcount}|${0:5}" />
+]]></content>
+	<tabTrigger>tk-randomall</tabTrigger>
+</snippet>

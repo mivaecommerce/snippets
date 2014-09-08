@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="import|${1:megalist}|${2:cust.dat}|${0:crlf}" />
+]]></content>
+	<tabTrigger>tk-import</tabTrigger>
+</snippet>

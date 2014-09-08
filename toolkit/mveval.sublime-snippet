@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="mveval|${0:l.all_settings:product:price * 1.1}" />
+]]></content>
+	<tabTrigger>tk-mveval</tabTrigger>
+</snippet>

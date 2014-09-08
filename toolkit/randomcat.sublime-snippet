@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="sassign|${1:cat_code}|${0:SPECIALS}" />
+]]></content>
+	<tabTrigger>tk-randomcat</tabTrigger>
+</snippet>

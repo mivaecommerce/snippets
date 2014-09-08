@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="custinsert|${1:taxid}|${0:g.mytax}" />
+]]></content>
+	<tabTrigger>tk-custinsert</tabTrigger>
+</snippet>

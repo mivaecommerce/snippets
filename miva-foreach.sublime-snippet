@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<mvt:foreach iterator = "${1}" array = "${2}">
+	${3}
+</mvt:foreach>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvt:foreach</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="productmeta|${1:CODE}|${0:l.all_settings:product:code}" />
+]]></content>
+	<tabTrigger>tk-productmeta</tabTrigger>
+</snippet>

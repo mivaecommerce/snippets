@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="updatebasket|${1:ship_state}|${0:g.value}" />
+]]></content>
+	<tabTrigger>tk-updatebasket</tabTrigger>
+</snippet>

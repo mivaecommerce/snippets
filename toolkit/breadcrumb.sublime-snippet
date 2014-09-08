@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="breadcrumb|${1:b_count}|${0:g.Category_Code}" />
+]]></content>
+	<tabTrigger>tk-breadcrumb</tabTrigger>
+</snippet>
